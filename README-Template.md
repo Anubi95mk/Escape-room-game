@@ -11,10 +11,8 @@ home automation software for your smart home
 
 To run this software you need node-v8.12.0 or higher.
 Android:```pkg install nodejs
-```
-Arch Linux:```pacman -S nodejs npm
-```
-macOS using Homebrew:brew install node
+```Arch Linux:```pacman -S nodejs npm
+```macOSusingHomebrew:brew install node
 
 
 
