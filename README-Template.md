@@ -1,20 +1,26 @@
-# Project Title
+# D-Home
+home automation software for your smart home
 
-One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+ See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To run this software you need node-v8.12.0 or higher.
+Android:```pkg install nodejs
+```
+Arch Linux:```pacman -S nodejs npm
+```
+macOS using Homebrew:brew install node
 
-```
-Give examples
-```
+
+
 
 ### Installing
+
 
 A step by step series of examples that tell you how to get a development env running
 
